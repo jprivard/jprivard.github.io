@@ -1,0 +1,15 @@
+title: an artisan's mind
+email: jp.rivard@gmail.com
+description: >-
+  This site is a little place called home for a software artisan, serving
+  as a recollection of ideas and thoughts about what makes his journey
+  so enjoyable.
+baseurl: "/"
+url: "https://jprivard.github.io"
+twitter_username: jp_rivard
+github_username:  jprivard
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
